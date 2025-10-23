@@ -1,4 +1,4 @@
-# Emergency Assistance Hub 🚨
+# Save Our Ship (SOS)
 
 A Java Swing desktop application for emergency situations with one-click SOS alerts via WhatsApp, contact management, secure authentication, and location tracking.
 
